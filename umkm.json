@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Tahu Pak Zaini",
+    "owner": "Pak Zaini",
+    "short_desc": "UMKM Tahu Rumahan Berkualitas",
+    "description": "Tahu Pak Zaini adalah UMKM tahu rumahan yang berlokasi di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar. Dikenal akan tahunnya yang kenyal, cepat matang saat digoreng, dan bebas rasa masam. Tahu Pak Zaini menjamin kualitas produk terbaik. Usaha ini terus berkembang, melayani tidak hanya desa-desa tetangga seperti Slumbung, Selopuro, dan Krisik, tetapi juga mencapai kota-kota besar seperti Tulungagung dan Surabaya. Meskipun menghadapi tantangan fluktuasi harga kedelai impor, Tahu Pak Zaini tetap konsisten menjaga mutu dan cita rasa otentik yang digemari banyak pelanggan.",
+    "waLink": "https://wa.me/6281234567890",
+    "shopeeLink": "https://shopee.co.id/fidaflowers",
+    "productImage": [
+      "img/tahu/tahu_produk1.webp",
+      "img/tahu/tahu_produk2.webp",
+      "img/tahu/tahu_produk3.webp"
+    ],
+    "otherImage": [
+      "img/tahu/tahu_produksi.webp",
+      "img/tahu/tahu_produksi2.webp",
+      "img/tahu/tahu_toko.webp"
+    ],
+    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d381.3081145638857!2d112.3437279!3d-8.0312299!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78914b4acd63bb%3A0x62fc8707e8b78430!2sTahu%20Jaya%20Nasrul!5e1!3m2!1sen!2sid!4v1753258523827!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+  },
+  {
+    "id": 2,
+    "name": "Tempe Bu Is",
+    "owner": "Bu Is",
+    "short_desc": "UMKM Tempe Rumahan Berkualitas",
+    "description": "Tempe Bu Is adalah UMKM rumahan yang bergerak di bidang produksi tempe di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar. Tempe produksi Bu Is dibuat tanpa menggunakan bahan pengawet, sehingga tetap alami dan sehat untuk dikonsumsi. Setiap harinya Bu Is dan suaminya memproduksi sekitar 50 kg tempe segar yang dipasarkan secara langsung di desa dan pasar tradisional. Tempe dijual dalam kondisi mentah maupun setengah matang sesuai kebutuhan konsumen. Usaha ini sudah melayani pengiriman hingga luar kota dan luar pulau, meskipun masih menghadapi kendala untuk ekspor.",
+    "waLink": "https://wa.me/6281234567890",
+    "shopeeLink": "https://shopee.co.id/fidaflowers",
+    "productImage": [
+      "img/tempe/tempe_produk1.webp",
+      "img/tempe/tempe_produk2.webp",
+      "img/tempe/tempe_produk3.webp"
+    ],
+    "otherImage": [
+      "img/tempe/tempe_produksi1.webp",
+      "img/tempe/tempe_produksi2.webp",
+      "img/tempe/tempe_toko.webp"
+    ],
+    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d381.3089557764825!2d112.3431562!3d-8.030334!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7891273f90fa25%3A0xfc3c94eb3c7015d7!2sRumah%20Tempe%20kedelai%20Bu%20Is!5e1!3m2!1sen!2sid!4v1753259003685!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='true' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+  },
+  {
+    "id": 2,
+    "name": "Genitri",
+    "owner": "Mbak Yuli",
+    "short_desc": "Aksesoris Genitri Handmade",
+    "description": "UMKM Aksesoris Genitri Bu Yuli merupakan usaha rumahan di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar, yang memproduksi aneka aksesoris dari biji genitri, seperti gelang, kalung, rosario, dan mala. Produksi dilakukan berdasarkan pesanan, karena saat ini belum tersedia produksi dalam skala besar. Bahan baku biji genitri berasal dari kebun sendiri, sehingga biaya produksi menjadi menjadi rendah.",
+    "waLink": "https://wa.me/6281234567890",
+    "shopeeLink": "https://shopee.co.id/fidaflowers",
+    "productImage": [
+      "img/genitri/genitri_produk1.jpg",
+      "img/genitri/genitri_produk2.jpg",
+      "img/genitri/genitri_produk3.jpg"
+    ],
+    "otherImage": [
+      "img/genitri/genitri_produksi1.jpg",
+      "img/genitri/genitri_produksi2.jpg",
+      "img/genitri/genitri_toko.jpg"
+    ],
+    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3050.493777827179!2d112.343267!3d-8.027387000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMDEnMzguNiJTIDExMsKwMjAnMzUuOCJF!5e1!3m2!1sen!2sid!4v1753261479386!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='true' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+  }
+]

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UMKM Desa</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              rubik: ["Rubik", "sans-serif"],
+            },
+          },
+        },
+          plugins: [tailwindcssLineClamp],
+      };
+    </script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-white text-gray-800 font-rubik box-border">
+    <div class="min-w-full py-10 flex flex-col items-center">
+      <h1 class="text-3xl font-bold mb-8 text-center">UMKM Desa Soso</h1>
+      <div class="w-full max-w-6xl px-4 sm:px-6 md:px-8 lg:px-12">
+        <div
+          id="umkm-container"
+          class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-6 gap-y-10 justify-items-center"
+        ></div>
+      </div>
+    </div>
+
+    <!-- Popup -->
+    <div
+      id="popup"
+      class="fixed inset-0 bg-black/70 z-50 hidden flex items-center justify-center p-4 md:p-10"
+    >
+      <div
+        class="bg-white w-full max-w-5xl max-h-[90vh] overflow-y-auto p-6 md:p-10 rounded-2xl relative shadow-xl transition-all duration-300 ease-in-out scale-100"
+      >
+        <button
+          onclick="closePopup()"
+          class="absolute top-4 right-4 text-3xl font-bold text-gray-600 hover:text-black"
+        >
+          &times;
+        </button>
+
+        <!-- Judul -->
+        <div class="text-center mb-4">
+          <h1 class="text-2xl font-bold" id="popup-title">UMKM Kue Basah</h1>
+          <p class="text-md text-gray-500" id="popup-owner">Bu Rini</p>
+        </div>
+
+        <!-- Swiper Gambar Produk -->
+        <div class="swiper popupMainSwiper mb-6 rounded-xl overflow-hidden">
+          <div class="swiper-wrapper" id="popup-main-swiper"></div>
+          <div class="swiper-button-prev text-white text-2xl z-10"></div>
+          <div class="swiper-button-next text-white text-2xl z-10"></div>
+
+          <!-- <div class="swiper-pagination !bottom-0"></div> -->
+        </div>
+
+        <!-- Deskripsi UMKM-->
+        <p
+          id="popup-description"
+          class="text-center text-gray-700 mb-8 max-w-3xl mx-auto text-sm md:text-base mt-12"
+        ></p>
+
+        <h2 class="text-md font-semibold">Lokasi</h2>
+        <div class="flex flex-col gap-6 mb-2">
+          <div id="popup-map" class="w-full rounded-xl overflow-hidden"></div>
+        </div>
+
+        <!-- Foto lainnya -->
+        <h2 class="text-md font-semibold mt-8">Foto Lainnya</h2>
+        <div class="grid grid-cols-3 gap-4 mb-10" id="popup-grid"></div>
+
+        <div class="flex justify-center gap-4">
+          <a
+            id="wa-link"
+            href="#"
+            target="_blank"
+            class="border bg-green-500 text-white px-5 py-2 rounded-full text-sm transition"
+          >
+            Link WhatsApp
+          </a>
+          <a
+            id="shopee-link"
+            href="#"
+            target="_blank"
+            class="bg-orange-500 text-white px-5 py-2 rounded-full text-sm transition"
+          >
+            Link Shopee
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
