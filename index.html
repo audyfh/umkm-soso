@@ -31,9 +31,7 @@
   </head>
   <body class="bg-white text-gray-800 font-rubik box-border">
     <div class="min-w-full py-10 flex flex-col items-center">
-      <div
-        class="w-full py-8 flex flex-col items-center bg-white"
-      >
+      <div class="w-full py-8 flex flex-col items-center bg-white">
         <h1 class="text-4xl font-bold mb-2 text-center text-blue-500">
           UMKM Desa Soso
         </h1>
@@ -66,8 +64,10 @@
 
         <!-- Judul -->
         <div class="text-center mb-4">
-          <h1 class="text-2xl font-bold" id="popup-title">UMKM Kue Basah</h1>
-          <p class="text-md text-gray-500" id="popup-owner">Bu Rini</p>
+          <h1 class="text-2xl font-bold text-blue-600" id="popup-title">
+            UMKM
+          </h1>
+          <p class="text-md text-gray-500" id="popup-owner">Pak</p>
         </div>
 
         <!-- Swiper Gambar Produk -->
@@ -85,29 +85,28 @@
           class="text-center text-gray-700 mb-8 max-w-3xl mx-auto text-sm md:text-base mt-12"
         ></p>
 
-        <h2 class="text-md font-semibold">Lokasi</h2>
-        <div class="flex flex-col gap-6 mb-2">
-          <div id="popup-map" class="w-full rounded-xl overflow-hidden"></div>
-        </div>
-
         <!-- Foto lainnya -->
         <h2 class="text-md font-semibold mt-8">Foto Lainnya</h2>
         <div class="grid grid-cols-3 gap-4 mb-10" id="popup-grid"></div>
+
+        <div class="flex flex-col gap-6 mb-4">
+          <div id="popup-map" class="w-full rounded-xl overflow-hidden"></div>
+        </div>
 
         <div class="flex justify-center gap-4">
           <a
             id="wa-link"
             href="#"
             target="_blank"
-            class="border bg-green-500 text-white px-5 py-2 rounded-full text-sm transition"
+            class="border bg-green-500 text-white px-8 py-2 rounded-full text-sm transition"
           >
-            Link WhatsApp
+            WhatsApp
           </a>
           <a
             id="shopee-link"
             href="#"
             target="_blank"
-            class="bg-orange-500 text-white px-5 py-2 rounded-full text-sm transition"
+            class="bg-orange-500 text-white px-8 py-2 rounded-full text-sm transition"
           >
             Link Shopee
           </a>

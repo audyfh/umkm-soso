@@ -66,22 +66,22 @@
     "short_desc": "Fida Flowers Bu Husnul membuat kerajinan flanel seperti bouquet dan hantaran.",
     "description": "Fida Flowers bu Husnul adalah UMKM yang terletak di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar, yang bergerak di bidang kerajinan tangan berbahan flanel, dengan produk utama berupa bouquet, hantaran manten, photo booth, hingga hadiah musiman seperti parcel dan celengan. Penjualannya dilakukan melalui Facebook dan melayani pesanan dari dalam maupun luar negeri, termasuk Taiwan dan Hongkong. UMKM ini unggul karena menerima desain custom dan memiliki kualitas kemasan yang aman untuk pengiriman jarak jauh, meskipun masih dikelola secara mandiri di rumah.",
     "waLink": "https://wa.me/6285855359324",
-    "shopeeLink": "belom",
+    "shopeeLink": null,
     "productImage": [
-      "img/tahu/tahu_produk1.webp",
-      "img/tahu/tahu_produk2.webp",
-      "img/tahu/tahu_produk3.webp"
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753526198/Copy_of_IMG_1484-min_gy2fdh.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753526197/Copy_of_IMG_1495-min_edthiv.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753526198/Copy_of_Copy_of_IMG_1489-min_hcpzij.jpg"
     ],
     "otherImage": [
-      "img/tahu/tahu_produksi.webp",
-      "img/tahu/tahu_produksi2.webp",
-      "img/tahu/tahu_toko.webp"
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753526196/Copy_of_IMG_1512-min_rjenou.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753526196/Copy_of_IMG_1513-min_xrj3uq.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753526197/Copy_of_IMG_1491-min_fdkqtc.jpg"
     ],
     "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d381.30779219484975!2d112.342922!3d-8.0315732!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7891a167776b97%3A0xf2990fbcf268eee7!2sFida%20Flowers%20dan%20Bengkel%20Kembar%20Jaya!5e1!3m2!1sen!2sid!4v1753360783057!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
   },
   {
     "id": 5,
-    "name": "Genitri",
+    "name": "Genitri Mbak Yuli",
     "owner": "Mbak Yuli",
     "short_desc": "Aksesoris Genitri Bu Yuli  membuat gelang dan rosario dari biji genitri kebun sendiri secara pesanan.",
     "description": "UMKM Aksesoris Genitri Bu Yuli merupakan usaha rumahan di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar, yang memproduksi aneka aksesoris dari biji genitri, seperti gelang, kalung, rosario, dan mala. Produksi dilakukan berdasarkan pesanan, karena saat ini belum tersedia produksi dalam skala besar. Bahan baku biji genitri berasal dari kebun sendiri, sehingga biaya produksi menjadi menjadi rendah.",
