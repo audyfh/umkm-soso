@@ -3,10 +3,70 @@
     "id": 1,
     "name": "Tahu Pak Zaini",
     "owner": "Pak Zaini",
-    "short_desc": "UMKM Tahu Rumahan Berkualitas",
+    "short_desc": "Tahu Pak Zaini di Desa Soso dikenal dengan tahu kenyal, bebas masam, dan berkualitas",
     "description": "Tahu Pak Zaini adalah UMKM tahu rumahan yang berlokasi di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar. Dikenal akan tahunnya yang kenyal, cepat matang saat digoreng, dan bebas rasa masam. Tahu Pak Zaini menjamin kualitas produk terbaik. Usaha ini terus berkembang, melayani tidak hanya desa-desa tetangga seperti Slumbung, Selopuro, dan Krisik, tetapi juga mencapai kota-kota besar seperti Tulungagung dan Surabaya. Meskipun menghadapi tantangan fluktuasi harga kedelai impor, Tahu Pak Zaini tetap konsisten menjaga mutu dan cita rasa otentik yang digemari banyak pelanggan.",
-    "waLink": "https://wa.me/6281234567890",
-    "shopeeLink": "https://shopee.co.id/fidaflowers",
+    "waLink": "https://wa.me/6283111052113",
+    "shopeeLink": null,
+    "productImage": [
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454531/Copy_of_Produk1-min_kfcjou.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454531/Copy_of_Produk2-min_a7anls.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454532/Copy_of_Produk3-min_lzjjbn.jpg"
+    ],
+    "otherImage": [
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454530/Copy_of_Lainnya_1-min_roskol.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454531/Copy_of_Lainnya2-min_pvaeh3.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454531/Copy_of_Lainnya3-min_cbou3z.jpg"
+    ],
+    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d381.3081145638857!2d112.3437279!3d-8.0312299!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78914b4acd63bb%3A0x62fc8707e8b78430!2sTahu%20Jaya%20Nasrul!5e1!3m2!1sen!2sid!4v1753258523827!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+  },
+  {
+    "id": 2,
+    "name": "Rengginang Bu Supini",
+    "owner": "Bu Supini",
+    "short_desc": "UMKM Rengginang Desa Soso memproduksi camilan siap goreng berskala besar",
+    "description": "Rengginang merupakan UMKM yang terletak di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar, yang memproduksi rengginang, sambal pecel, jenang ketan, hingga aneka keripik secara mandiri. Produk dijual secara offline maupun online dan telah menjangkau konsumen luar kota seperti Malang, Batu, dan Jakarta. Dengan kapasitas produksi hingga 1 kuintal per hari, UMKM ini unggul karena menawarkan produk siap goreng, menerima pesanan skala besar, dan memiliki potensi ekspor, meskipun masih membutuhkan pengembangan kemasan dan pemasaran digital.",
+    "waLink": "https://wa.me/6285735263380",
+    "shopeeLink": "https://tk.tokopedia.com/ZSBt51JV5/",
+    "productImage": [
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455134/Copy_of_rengginang1-min_wzsf6x.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455141/Copy_of_rengginang2-min_j7q6jt.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455140/Copy_of_rengginang3-min_uph0wf.jpg"
+    ],
+    "otherImage": [
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455134/Copy_of_rengginangproduksi1-min_dtmai8.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455138/Copy_of_rengginangproduksi2-min_pius5g.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455139/rengginangtoko-min_a14cuy.jpg"
+    ],
+    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d381.312162871301!2d112.3428707!3d-8.0269175!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7891f4399b39ef%3A0x9fda5126e380e7b8!2sRengginan%20Bu%20Supini!5e1!3m2!1sen!2sid!4v1753360457926!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+  },
+  {
+    "id": 3,
+    "name": "Aneka Kue Basah Bu Rini",
+    "owner": "Bu Rini",
+    "short_desc": "Aneka Kue Basah Bu Rini menjual berbagai kue basah seperti banana cake dan dadar gulung.",
+    "description": "Aneka Kue Basah Bu Rini adalah UMKM yang terletak di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar. Aneka Kue Basah Bu Rini menjual aneka kue basah seperti Banana Cake, Kue Tart Mini, Kue Pukis, Dadar Gulung dan berbagai macam kue lainnya. UMKM ini menyediakan penjualan melalui toko fisik dan pemesanan via WhatsApp, menjangkau konsumen lokal maupun luar kota. Aneka Kue Basah Bu Rini juga memiliki Toko yang bisa dibeli secara langsung",
+    "waLink": "https://wa.me/6282337099006",
+    "shopeeLink": null,
+    "productImage": [
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455655/Copy_of_FotoProduk-min_nwsqez.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455655/Copy_of_FotoProduk2-min_srutvb.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455656/FotoProduk3-min_oocrtq.jpg"
+    ],
+    "otherImage": [
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455655/produksi2-min_nuup1j.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455655/Copy_of_FotoProduksi-min_uwuyfz.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753455656/fotoToko-min_yfgnwl.jpg"
+    ],
+    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d762.6353955459258!2d112.3382899!3d-8.0210178!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMDEnMTYuMyJTIDExMsKwMjAnMTkuNCJF!5e1!3m2!1sen!2sid!4v1753360636001!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+  },
+  {
+    "id": 4,
+    "name": "Fida Flower Bu Husnul",
+    "owner": "Bu Husnul",
+    "short_desc": "Fida Flowers Bu Husnul membuat kerajinan flanel seperti bouquet dan hantaran.",
+    "description": "Fida Flowers bu Husnul adalah UMKM yang terletak di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar, yang bergerak di bidang kerajinan tangan berbahan flanel, dengan produk utama berupa bouquet, hantaran manten, photo booth, hingga hadiah musiman seperti parcel dan celengan. Penjualannya dilakukan melalui Facebook dan melayani pesanan dari dalam maupun luar negeri, termasuk Taiwan dan Hongkong. UMKM ini unggul karena menerima desain custom dan memiliki kualitas kemasan yang aman untuk pengiriman jarak jauh, meskipun masih dikelola secara mandiri di rumah.",
+    "waLink": "https://wa.me/6285855359324",
+    "shopeeLink": "belom",
     "productImage": [
       "img/tahu/tahu_produk1.webp",
       "img/tahu/tahu_produk2.webp",
@@ -17,46 +77,66 @@
       "img/tahu/tahu_produksi2.webp",
       "img/tahu/tahu_toko.webp"
     ],
-    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d381.3081145638857!2d112.3437279!3d-8.0312299!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78914b4acd63bb%3A0x62fc8707e8b78430!2sTahu%20Jaya%20Nasrul!5e1!3m2!1sen!2sid!4v1753258523827!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d381.30779219484975!2d112.342922!3d-8.0315732!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7891a167776b97%3A0xf2990fbcf268eee7!2sFida%20Flowers%20dan%20Bengkel%20Kembar%20Jaya!5e1!3m2!1sen!2sid!4v1753360783057!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
   },
   {
-    "id": 2,
-    "name": "Tempe Bu Is",
-    "owner": "Bu Is",
-    "short_desc": "UMKM Tempe Rumahan Berkualitas",
-    "description": "Tempe Bu Is adalah UMKM rumahan yang bergerak di bidang produksi tempe di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar. Tempe produksi Bu Is dibuat tanpa menggunakan bahan pengawet, sehingga tetap alami dan sehat untuk dikonsumsi. Setiap harinya Bu Is dan suaminya memproduksi sekitar 50 kg tempe segar yang dipasarkan secara langsung di desa dan pasar tradisional. Tempe dijual dalam kondisi mentah maupun setengah matang sesuai kebutuhan konsumen. Usaha ini sudah melayani pengiriman hingga luar kota dan luar pulau, meskipun masih menghadapi kendala untuk ekspor.",
-    "waLink": "https://wa.me/6281234567890",
-    "shopeeLink": "https://shopee.co.id/fidaflowers",
+    "id": 5,
+    "name": "Genitri",
+    "owner": "Mbak Yuli",
+    "short_desc": "Aksesoris Genitri Bu Yuli  membuat gelang dan rosario dari biji genitri kebun sendiri secara pesanan.",
+    "description": "UMKM Aksesoris Genitri Bu Yuli merupakan usaha rumahan di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar, yang memproduksi aneka aksesoris dari biji genitri, seperti gelang, kalung, rosario, dan mala. Produksi dilakukan berdasarkan pesanan, karena saat ini belum tersedia produksi dalam skala besar. Bahan baku biji genitri berasal dari kebun sendiri, sehingga biaya produksi menjadi menjadi rendah.",
+    "waLink": "https://wa.me/6288228255896",
+    "shopeeLink": "https://id.shp.ee/hDMtk37",
     "productImage": [
-      "img/tempe/tempe_produk1.webp",
-      "img/tempe/tempe_produk2.webp",
-      "img/tempe/tempe_produk3.webp"
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753456061/produk1-min_yrejdq.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753456060/produk2-min_pmp3nz.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753456064/produk3-min_gyt0lt.jpg"
     ],
     "otherImage": [
-      "img/tempe/tempe_produksi1.webp",
-      "img/tempe/tempe_produksi2.webp",
-      "img/tempe/tempe_toko.webp"
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753456062/IMG_6448-min_nqqhi1.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753456063/IMG_6431-min_pkv1dj.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753456063/ftotoko-min_rzlnex.jpg"
+    ],
+    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3050.493777827179!2d112.343267!3d-8.027387000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMDEnMzguNiJTIDExMsKwMjAnMzUuOCJF!5e1!3m2!1sen!2sid!4v1753261479386!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='true' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+  },
+  {
+    "id": 6,
+    "name": "Tempe Bu Is",
+    "owner": "Bu Is",
+    "short_desc": "Tempe Bu Is memproduksi tempe tanpa pengawet dan melayani hingga luar pulau.",
+    "description": "Tempe Bu Is adalah UMKM rumahan yang bergerak di bidang produksi tempe di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar. Tempe produksi Bu Is dibuat tanpa menggunakan bahan pengawet, sehingga tetap alami dan sehat untuk dikonsumsi. Setiap harinya Bu Is dan suaminya memproduksi sekitar 50 kg tempe segar yang dipasarkan secara langsung di desa dan pasar tradisional. Tempe dijual dalam kondisi mentah maupun setengah matang sesuai kebutuhan konsumen. Usaha ini sudah melayani pengiriman hingga luar kota dan luar pulau, meskipun masih menghadapi kendala untuk ekspor.",
+    "waLink": "https://wa.me/6281913884270",
+    "shopeeLink": null,
+    "productImage": [
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753453452/Produk1-min_zkmk91.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753453451/Produk2-min_lvzo5y.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753453452/Produk3-min_ven72s.jpg"
+    ],
+    "otherImage": [
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753453451/Lainnya1-min_jdeaiu.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753453452/Lainnya2-min_dfflzk.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753453451/Lainnya3-min_nysvlj.jpg"
     ],
     "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d381.3089557764825!2d112.3431562!3d-8.030334!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7891273f90fa25%3A0xfc3c94eb3c7015d7!2sRumah%20Tempe%20kedelai%20Bu%20Is!5e1!3m2!1sen!2sid!4v1753259003685!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='true' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
   },
   {
-    "id": 2,
-    "name": "Genitri",
-    "owner": "Mbak Yuli",
-    "short_desc": "Aksesoris Genitri Handmade",
-    "description": "UMKM Aksesoris Genitri Bu Yuli merupakan usaha rumahan di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar, yang memproduksi aneka aksesoris dari biji genitri, seperti gelang, kalung, rosario, dan mala. Produksi dilakukan berdasarkan pesanan, karena saat ini belum tersedia produksi dalam skala besar. Bahan baku biji genitri berasal dari kebun sendiri, sehingga biaya produksi menjadi menjadi rendah.",
-    "waLink": "https://wa.me/6281234567890",
-    "shopeeLink": "https://shopee.co.id/fidaflowers",
+    "id": 7,
+    "name": "Tape Bu As",
+    "owner": "Bu Astutik",
+    "short_desc": "Tape Bu Astutik rutin memproduksi tape kuning dengan rasa khas yang digemari hingga luar negeri.",
+    "description": "Tape Bu Astutik adalah UMKM yang terletak di Desa Soso, Kecamatan Gandusari, Kabupaten Blitar, yang memproduksi tape kuning secara rutin dan telah berdiri sejak lama. Penjualannya berpusat di pasar tradisional dan secara individu, dengan sistem pembayaran tunai. Meskipun pemasaran masih terbatas, produknya telah sampai ke Bali dan Hongkong. Keunggulan UMKM ini terletak pada proses produksi harian dengan fermentasi dua hari dan cita rasa khas yang diminati pelanggan.",
+    "waLink": "https://wa.me/6285704429213",
+    "shopeeLink": null,
     "productImage": [
-      "img/genitri/genitri_produk1.jpg",
-      "img/genitri/genitri_produk2.jpg",
-      "img/genitri/genitri_produk3.jpg"
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454055/tapeproduk3-min_daaomf.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454056/tapeproduk2-min_h5s6ab.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454057/tapeproduk1-min_jvmih2.jpg"
     ],
     "otherImage": [
-      "img/genitri/genitri_produksi1.jpg",
-      "img/genitri/genitri_produksi2.jpg",
-      "img/genitri/genitri_toko.jpg"
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454055/tapeproduksi2-min_und0vz.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454055/tapeproduksi1-min_nl36pd.jpg",
+      "https://res.cloudinary.com/dvzsjoyvg/image/upload/v1753454055/tapetoko-min_g6k5ky.jpg"
     ],
-    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3050.493777827179!2d112.343267!3d-8.027387000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMDEnMzguNiJTIDExMsKwMjAnMzUuOCJF!5e1!3m2!1sen!2sid!4v1753261479386!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='true' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3050.5257781635305!2d112.341882!3d-8.023124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMDEnMjMuMyJTIDExMsKwMjAnMzAuOCJF!5e1!3m2!1sen!2sid!4v1753360952424!5m2!1sen!2sid' width='100%' height='300' style='border:0;' allowfullscreen='true' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
   }
 ]
