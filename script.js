@@ -12,7 +12,7 @@ fetch("umkm.json")
       <h2 class="text-base font-semibold md:text-lg">${item.name}</h2>
       <p class="text-xs text-gray-600 line-clamp-2 md:text-sm">${item.short_desc}</p>
       <div class="mt-2 md:mt-4">
-        <button class="lihat-button bg-black text-white text-xs md:text-sm px-3 py-1 rounded-full w-32 md:w-full">
+        <button class="lihat-button bg-blue-600 hover:bg-blue-700 text-white text-xs md:text-sm px-3 py-1 rounded-full w-32 md:w-full transition">
           Lihat Selengkapnya
         </button>
       </div>
